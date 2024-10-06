@@ -1186,7 +1186,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.ibb.co.com/Qn8zjhn/jojsport.png" group-title="ALL SPORTS", JOJ Å port ðŸ‡¸ðŸ‡°
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.ibb.co.com/Qn8zjhn/jojsport.png" group-title="ALL SPORTS", JOJ Å port 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1239,6 +1239,70 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 ################################################################################################################################################################################################################################################################################################################################################
 #######################################################################  ######################################################################################
 ########################################################################################################################################################################
+
+
+
+ASTRO
+
+
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", 🇲🇾 Astro Supersport UHD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",🇲🇾 Astro Supersport 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1XUTJNekZsTkRBdE1UVm1ZeTAwWm1aaExXSmpOVFF0Tm1Fek1EWTBNMlpsWVRBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyODI3MzEzMSwiaWF0IjoxNzI3NjY5MTMxfQ.2vdgU8BV7bX8xOhxOzlEJSr_2iDbi2eMIZCYM6q1fZg"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",🇲🇾 Astro Supersport 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1XUTJNekZsTkRBdE1UVm1ZeTAwWm1aaExXSmpOVFF0Tm1Fek1EWTBNMlpsWVRBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyODI3MzEzMSwiaWF0IjoxNzI3NjY5MTMxfQ.2vdgU8BV7bX8xOhxOzlEJSr_2iDbi2eMIZCYM6q1fZg"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",🇲🇾 Astro Supersport 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1XUTJNekZsTkRBdE1UVm1ZeTAwWm1aaExXSmpOVFF0Tm1Fek1EWTBNMlpsWVRBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyODI3MzEzMSwiaWF0IjoxNzI3NjY5MTMxfQ.2vdgU8BV7bX8xOhxOzlEJSr_2iDbi2eMIZCYM6q1fZg"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
+https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",🇲🇾 Astro Supersport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+
+
+========================================================================================================================================================================================================================================================================================================================================================
+========================================================================================================================================================================================================================================================================================================================================================
+========================================================================================================================================================================================================================================================================================================================================================
+========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+========================================================================================================================================================================================================================================================================================================================================================
+========================================================================================================================================================================================================================================================================================================================================================
+=======================================================================================================================================================================================================================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1549,46 +1613,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 ========================================================================================================================================================================================================================================================================================================================================================
 ========================================================================================================================================================================================================================================================================================================================================================
 =======================================================================================================================================================================================================================================================================================================================================================
-
-
-ASTRO
-
-
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", 🇲🇾 Astro Supersport UHD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",🇲🇾 Astro Supersport 1 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1XUTJNekZsTkRBdE1UVm1ZeTAwWm1aaExXSmpOVFF0Tm1Fek1EWTBNMlpsWVRBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyODI3MzEzMSwiaWF0IjoxNzI3NjY5MTMxfQ.2vdgU8BV7bX8xOhxOzlEJSr_2iDbi2eMIZCYM6q1fZg"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",🇲🇾 Astro Supersport 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1XUTJNekZsTkRBdE1UVm1ZeTAwWm1aaExXSmpOVFF0Tm1Fek1EWTBNMlpsWVRBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyODI3MzEzMSwiaWF0IjoxNzI3NjY5MTMxfQ.2vdgU8BV7bX8xOhxOzlEJSr_2iDbi2eMIZCYM6q1fZg"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
-http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",🇲🇾 Astro Supersport 3 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1XUTJNekZsTkRBdE1UVm1ZeTAwWm1aaExXSmpOVFF0Tm1Fek1EWTBNMlpsWVRBMCIsIndtb3BpZCI6MzIsImV4cCI6MTcyODI3MzEzMSwiaWF0IjoxNzI3NjY5MTMxfQ.2vdgU8BV7bX8xOhxOzlEJSr_2iDbi2eMIZCYM6q1fZg"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
-https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
-
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",🇲🇾 Astro Supersport 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" } 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 
 
