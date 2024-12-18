@@ -1,5 +1,31 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-name="Scorched Earth (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/b8NIymZvkh0Yu6VPaisgj3lIOs6.jpg" group-title="Latest Movies",Scorched Earth (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139053.mp4
+#EXTINF:-1 tvg-name="Scorched Earth (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/b8NIymZvkh0Yu6VPaisgj3lIOs6.jpg" group-title="Movie-2024",Scorched Earth (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139053.mp4
+#EXTINF:-1 tvg-name="Tinker Tailor Soldier Spy (2011)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/e0dZ7TapGY9HtJ9xk1TUHPEOccl.jpg" group-title="Latest Movies",Tinker Tailor Soldier Spy (2011)
+https://smstv.live:443/movie/09766767690/09766767690/139052.mkv
+#EXTINF:-1 tvg-name="Tinker Tailor Soldier Spy (2011)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/e0dZ7TapGY9HtJ9xk1TUHPEOccl.jpg" group-title="Movie-2011",Tinker Tailor Soldier Spy (2011)
+https://smstv.live:443/movie/09766767690/09766767690/139052.mkv
+#EXTINF:-1 tvg-name="Thozhar Cheguevara (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/iviic5lFx0iXWSY79bog13enNUB.jpg" group-title="Latest Movies",Thozhar Cheguevara (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139051.mkv
+#EXTINF:-1 tvg-name="Thozhar Cheguevara (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/iviic5lFx0iXWSY79bog13enNUB.jpg" group-title="Movie-2024",Thozhar Cheguevara (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139051.mkv
+#EXTINF:-1 tvg-name="Thozhar Cheguevara (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/iviic5lFx0iXWSY79bog13enNUB.jpg" group-title="MOVIE(INDIA)",Thozhar Cheguevara (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139051.mkv
+#EXTINF:-1 tvg-name="The Unseen Sister (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/vpWDTc2sQE8vHthH4Pji41W0lxy.jpg" group-title="Latest Movies",The Unseen Sister (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139050.mkv
+#EXTINF:-1 tvg-name="The Unseen Sister (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/vpWDTc2sQE8vHthH4Pji41W0lxy.jpg" group-title="Movie-2024",The Unseen Sister (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139050.mkv
+#EXTINF:-1 tvg-name="The Snow Sister (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/ArMZ9DEw3ajkLYNmj3iXdveO9oQ.jpg" group-title="Latest Movies",The Snow Sister (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139049.mkv
+#EXTINF:-1 tvg-name="The Snow Sister (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/ArMZ9DEw3ajkLYNmj3iXdveO9oQ.jpg" group-title="Movie-2024",The Snow Sister (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139049.mkv
+#EXTINF:-1 tvg-name="The Price of Money: A Largo Winch Adventure (2024)" tvg-logo="https://image.smstv.live/t/p/w600_and_h900_bestv2/38ndcNVogh4k1iFH5DSXSX8kyOZ.jpg" group-title="Latest Movies",The Price of Money: A Largo Winch Adventure (2024)
+https://smstv.live:443/movie/09766767690/09766767690/139048.mkv
+
+
 #EXTINF:-1 xui-id="14691" tvg-name="Longing For You S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/uP3tBwX4NXhkd74JN50ZF1vkMID.jpg" group-title="Korea",Longing For You S01E01
 http://mdy.one:80/play/bZcbTYrQQuNKg-ZEUMYXqEztUzjUkee2I_QPZoRTosO7WXV6ILEdoRvxotgYKMNe
 #EXTINF:-1 xui-id="14692" tvg-name="Longing For You S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/U6YWqlTCxb4J4SO9oTHTXgvxUO.jpg" group-title="Korea",Longing For You S01E02
