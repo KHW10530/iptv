@@ -59,7 +59,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
@@ -77,7 +77,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
@@ -99,7 +99,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 
@@ -123,7 +123,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 
@@ -143,7 +143,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
@@ -163,7 +163,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
@@ -179,7 +179,7 @@ https://d1yws6emo43ny.cloudfront.net/CH2/masterCH2.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
@@ -197,7 +197,7 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
@@ -217,7 +217,7 @@ https://d1yws6emo43ny.cloudfront.net/CH3/masterCH3.mpd
 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
@@ -235,7 +235,7 @@ https://d2e27gsr9y6c4h.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617
 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczODIxODYzMCwiaWF0IjoxNzM3NjE0NjMwfQ.thgVOWId5ToSrOnzPn7rm_4HMOwqjzEV6QfFekqqkKU"}
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 
@@ -1070,6 +1070,16 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 
 https://web.hypp.tv/PLTV/88888888/224/3221227501/3221227501.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=UWAnmC9bjcCYzk2B7%2Fzsh5fd7sK3Ak4QU6ggTGFCqUOc6HYFjf94WmDC7aCkMUkLU7swKg9wGMHOfucSMA2YLkCVa%2BJ0Jw6QQya%2FpML52z66l1tUg0bvCsq4QjaBzPBR%3A20231218100342%3AUTC%2C10001003290297%2C210.186.235.230%2C20231218100342%2Curn:Huawei:liveTV:XTV100000343%2C10001003290297%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000106182321%2C0%2C10000104484913%2C3526569890%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.159_80&hms_devid=1793&mag_hms=1793,1687&mount=1000002&targetdev=1793&it=H4sIAAAAAAAAAzXMvQrCMBRA4bfJGPIjqRkyKYJLEKqucntzEwppg0kt-PZS0f18Z6mAdD46g0pGEZG0oJ22nRV7aVEGQDMgdMAaPX1xmiHkPM7Jl7Cxe394SMEFV0pybdh1250yJKe-pX9NA1Un_6ynuo5ILrTIV2gcUqqUYBnLzC8Z3reaf8kHXa-kOJkAAAA
+
+  
+
+
+
+
+
+
+
+
 
   
 
